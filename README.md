@@ -11,4 +11,4 @@ Mr. Adams assgined the PBL programming projec to 4 DSISD Dripping Springs High S
 3. Brennan Mayhew
 4. Nicolas Mowen
 
-These student retain the copyright and intellectual property rights to the software developed.
+These students retain the copyright and intellectual property rights to the software developed.
